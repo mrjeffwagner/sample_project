@@ -22,5 +22,6 @@ setup(
     license='MIT',
     description='A sample python project that creates a log message with timestamp.',
     # We will also need a readme eventually (there will be a warning)
-    # long_description=open('README.txt').read(),
+    long_description=long_description,
+    long_description_content_type="text/markdown",
 )
