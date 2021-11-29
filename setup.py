@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()        
 
-setup(
+setuptools.setup(
     # Needed to silence warnings (and to be a worthwhile package)
     name='wagner',
     url='https://github.com/mrjeffwagner/sample_project',
