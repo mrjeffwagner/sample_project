@@ -1,0 +1,15 @@
+name: CI
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Confirm black formatter was ran
+        run: |
+          pip install black
+          black --check .
