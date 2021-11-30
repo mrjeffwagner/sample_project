@@ -3,24 +3,39 @@ Sample python package that has one function which creates a log entry.
 
 ### Installation
 ```txt
-pip install git+https://github.com/mrjeffwagner/sample_project.git
+pip install git+https://github.com/mrjeffwagner/sample_project.git@master
 ```
 
 ### Usage
-After install, import package to python file to use function.
+After install, run wagner command on cli or import package for use in another python project.
+
+```text
+>>> wagner
+Wagner command is working!!!
+>>> wagner --version
+Version 0.1
+>>> wagner -h
+usage: wagner [-h] [-v]
+
+Wagner help
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --version  The version of the wagner application.
+```
 
 ```python
-import wagner
-wagner.report("Sample Log Message")
+from wagner import main
+main.report("Sample Log Message")
 ```
 
 Output:
 
-```txt
+```text
 2021-11-30 15:00:57.998: Sample Log Message
 ```
 
 ### Uninstall
-```txt
+```text
 pip uninstall wagner
 ```
