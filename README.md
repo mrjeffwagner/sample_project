@@ -17,5 +17,10 @@ wagner.report("Sample Log Message")
 Output:
 
 ```txt
-2021-11-30 14:41:38.: Sample Log Message
+2021-11-30 15:00:57.998: Sample Log Message
+```
+
+### Uninstall
+```txt
+pip uninstall wagner
 ```
