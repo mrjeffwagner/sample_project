@@ -2,7 +2,9 @@
 Sample python package that has one function which creates a log entry.
 
 ### Installation
+```txt
 pip install git+https://github.com/mrjeffwagner/sample_project.git
+```
 
 ### Usage
 After install, import package to python file to use function.
