@@ -1,0 +1,150 @@
+jewagner@DESKTOP-SA1DDM9:~/sample_project$ python3 -i webscraping.py
+The top 100 ebooks from yesterday (2021-11-30) on gutenberg.org site are below:
+
+BookNumber: 84       BookName: Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (3662)
+BookNumber: 46       BookName: A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens (2705)
+BookNumber: 1342     BookName: Pride and Prejudice by Jane Austen (2203)
+BookNumber: 25344    BookName: The Scarlet Letter by Nathaniel Hawthorne (1709)
+BookNumber: 2542     BookName: A Doll's House : a play by Henrik Ibsen (1050)
+BookNumber: 11       BookName: Alice's Adventures in Wonderland by Lewis Carroll (980)
+BookNumber: 844      BookName: The Importance of Being Earnest: A Trivial Comedy for Serious People by Oscar Wilde (936)
+BookNumber: 345      BookName: Dracula by Bram Stoker (930)
+BookNumber: 174      BookName: The Picture of Dorian Gray by Oscar Wilde (900)
+BookNumber: 1080     BookName: A Modest Proposal by Jonathan Swift (856)
+BookNumber: 2701     BookName: Moby Dick; Or, The Whale by Herman Melville (838)
+BookNumber: 1661     BookName: The Adventures of Sherlock Holmes by Arthur Conan Doyle (835)
+BookNumber: 98       BookName: A Tale of Two Cities by Charles Dickens (786)
+BookNumber: 64317    BookName: The Great Gatsby by F. Scott  Fitzgerald (735)
+BookNumber: 66846    BookName: “1914” by John Oxenham (711)
+BookNumber: 219      BookName: Heart of Darkness by Joseph Conrad (690)
+BookNumber: 1260     BookName: Jane Eyre: An Autobiography by Charlotte Brontë (672)
+BookNumber: 43       BookName: The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson (657)
+BookNumber: 1400     BookName: Great Expectations by Charles Dickens (654)
+BookNumber: 1232     BookName: The Prince by Niccolò Machiavelli (645)
+BookNumber: 1727     BookName: The Odyssey by Homer (643)
+BookNumber: 5200     BookName: Metamorphosis by Franz Kafka (614)
+BookNumber: 1952     BookName: The Yellow Wallpaper by Charlotte Perkins Gilman (612)
+BookNumber: 66843    BookName: Battle for the Stars by Edmond Hamilton (596)
+BookNumber: 1250     BookName: Anthem by Ayn Rand (575)
+BookNumber: 76       BookName: Adventures of Huckleberry Finn by Mark Twain (572)
+BookNumber: 2591     BookName: Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm (525)
+BookNumber: 160      BookName: The Awakening, and Selected Short Stories by Kate Chopin (517)
+BookNumber: 23       BookName: Narrative of the Life of Frederick Douglass, an American Slave by Frederick Douglass (491)
+BookNumber: 408      BookName: The Souls of Black Folk by W. E. B.  Du Bois (479)
+BookNumber: 2852     BookName: The Hound of the Baskervilles by Arthur Conan Doyle (470)
+BookNumber: 205      BookName: Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau (467)
+BookNumber: 514      BookName: Little Women by Louisa May Alcott (460)
+BookNumber: 2554     BookName: Crime and Punishment by Fyodor Dostoyevsky (451)
+BookNumber: 6130     BookName: The Iliad by Homer (434)
+BookNumber: 2600     BookName: War and Peace by graf Leo Tolstoy (427)
+BookNumber: 25027    BookName: Peter Piper's Practical Principles of Plain and Perfect Pronunciation by Anonymous (427)
+BookNumber: 45       BookName: Anne of Green Gables by L. M.  Montgomery (397)
+BookNumber: 19337    BookName: A Christmas Carol by Charles Dickens (392)
+BookNumber: 4300     BookName: Ulysses by James Joyce (384)
+BookNumber: 996      BookName: Don Quixote by Miguel de Cervantes Saavedra (382)
+BookNumber: 35899    BookName: The Philippines a Century Hence by José Rizal (380)
+BookNumber: 2814     BookName: Dubliners by James Joyce (379)
+BookNumber: 5740     BookName: Tractatus Logico-Philosophicus by Ludwig Wittgenstein (376)
+BookNumber: 1184     BookName: The Count of Monte Cristo, Illustrated by Alexandre Dumas (365)
+BookNumber: 16       BookName: Peter Pan by J. M.  Barrie (354)
+BookNumber: 74       BookName: The Adventures of Tom Sawyer, Complete by Mark Twain (350)
+BookNumber: 58585    BookName: The Prophet by Kahlil Gibran (350)
+BookNumber: 66850    BookName: A Lecture on Stained Glass by R. Anning Bell (344)
+BookNumber: 215      BookName: The Call of the Wild by Jack London (338)
+BookNumber: 829      BookName: Gulliver's Travels into Several Remote Nations of the World by Jonathan Swift (336)
+BookNumber: 3600     BookName: Essays of Michel de Montaigne — Complete by Michel de Montaigne (334)
+BookNumber: 32449    BookName: Japanese Girls and Women by Alice Mabel Bacon (329)
+BookNumber: 28054    BookName: The Brothers Karamazov by Fyodor Dostoyevsky (327)
+BookNumber: 768      BookName: Wuthering Heights by Emily Brontë (320)
+BookNumber: 15114    BookName: An Investigation of the Laws of Thought by George Boole (319)
+BookNumber: 55       BookName: The Wonderful Wizard of Oz by L. Frank  Baum (318)
+BookNumber: 120      BookName: Treasure Island by Robert Louis Stevenson (316)
+BookNumber: 66845    BookName: La Guerre est morte by Louis Delluc (310)
+BookNumber: 7370     BookName: Second Treatise of Government by John Locke (310)
+BookNumber: 135      BookName: Les Misérables by Victor Hugo (309)
+BookNumber: 16328    BookName: Beowulf: An Anglo-Saxon Epic Poem (307)
+BookNumber: 66848    BookName: Engravers and Etchers: Six Lectures Delivered on the Scammon Foundation at the Art Institute of Chic (304)
+BookNumber: 4517     BookName: Ethan Frome by Edith Wharton (298)
+BookNumber: 203      BookName: Uncle Tom's Cabin by Harriet Beecher Stowe (297)
+BookNumber: 2500     BookName: Siddhartha by Hermann Hesse (292)
+BookNumber: 4363     BookName: Beyond Good and Evil by Friedrich Wilhelm Nietzsche (282)
+BookNumber: 36       BookName: The War of the Worlds by H. G.  Wells (280)
+BookNumber: 1497     BookName: The Republic by Plato (279)
+BookNumber: 35       BookName: The Time Machine by H. G.  Wells (277)
+BookNumber: 15399    BookName: The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano (276)
+BookNumber: 41       BookName: The Legend of Sleepy Hollow by Washington Irving (272)
+BookNumber: 66844    BookName: The Life of the Weevil by Jean-Henri Fabre and Alexander Teixeira de Mattos (269)
+BookNumber: 3207     BookName: Leviathan by Thomas Hobbes (267)
+BookNumber: 3825     BookName: Pygmalion by Bernard Shaw (260)
+BookNumber: 19942    BookName: Candide by Voltaire (258)
+BookNumber: 66851    BookName: The Prize by Sydney C. Grier (245)
+BookNumber: 7256     BookName: The Gift of the Magi by O. Henry (238)
+BookNumber: 105      BookName: Persuasion by Jane Austen (236)
+BookNumber: 730      BookName: Oliver Twist by Charles Dickens (235)
+BookNumber: 1467     BookName: Some Christmas Stories by Charles Dickens (231)
+BookNumber: 20203    BookName: Autobiography of Benjamin Franklin by Benjamin Franklin (231)
+BookNumber: 11030    BookName: Incidents in the Life of a Slave Girl, Written by Herself by Harriet A.  Jacobs (228)
+BookNumber: 244      BookName: A Study in Scarlet by Arthur Conan Doyle (228)
+BookNumber: 66847    BookName: Heiraten by August Strindberg (228)
+BookNumber: 30254    BookName: The Romance of Lust: A classic Victorian erotic novel by Anonymous (226)
+BookNumber: 1399     BookName: Anna Karenina by graf Leo Tolstoy (220)
+BookNumber: 779      BookName: The Tragical History of Doctor Faustus by Christopher Marlowe (218)
+BookNumber: 140      BookName: The Jungle by Upton Sinclair (218)
+BookNumber: 521      BookName: The Life and Adventures of Robinson Crusoe by Daniel Defoe (217)
+BookNumber: 17135    BookName: Twas the Night before Christmas: A Visit from St. Nicholas by Clement Clarke Moore (216)
+BookNumber: 158      BookName: Emma by Jane Austen (215)
+BookNumber: 57988    BookName: A Son of the Soil by Mrs.  Oliphant (215)
+BookNumber: 27827    BookName: The Kama Sutra of Vatsyayana by Vatsyayana (214)
+BookNumber: 1597     BookName: Andersen's Fairy Tales by H. C.  Andersen (211)
+BookNumber: 4217     BookName: A Portrait of the Artist as a Young Man by James Joyce (209)
+BookNumber: 10       BookName: The King James Version of the Bible (203)
+BookNumber: 786      BookName: Hard Times by Charles Dickens (202)
+BookNumber: 902      BookName: The Happy Prince, and Other Tales by Oscar Wilde (200)
+BookNumber: 42324    BookName: Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (200)
+
+
+
+
+
+The top 40 songs on top40weekly.com/ site are below:
+
+1 ALL TOO WELL (TAYLOR'S VERSION) by Taylor Swift
+2 EASY ON ME by Adele
+3 STAY by the Kid LAROI & Justin Bieber
+4 INDUSTRY BABY by Lil Nas X & Jack Harlow
+5 SMOKIN OUT THE WINDOW by Silk Sonic (Bruno Mars & Anderson.Paak)
+6 BAD HABITS by Ed Sheeran
+7 SHIVERS by Ed Sheeran
+8 HEAT WAVES by Glass Animals
+9 NEED TO KNOW by Doja Cat
+10 FANCY LIKE by Walker Hayes
+11 COLD HEART (PNAU REMIX) by Elton John & Dua Lipa
+12 WAY 2 SEXY by Drake featuring Future & Young Thug
+13 good 4 u by Olivia Rodrigo
+14 YOU RIGHT by Doja Cat & the Weeknd
+15 ESSENCE by Wizkid featuring Justin Bieber & Tems
+16 BEGGIN' by Maneskin
+17 LEVITATING by Dua Lipa
+18 STATE OF GRACE (TAYLOR'S VERSION) by Taylor Swift
+19 ONE RIGHT NOW by Post Malone & the Weeknd
+20 ALREADY DEAD by Juice WRLD
+21 KISS ME MORE by Doja Cat featuring SZA
+22 I BET YOU THINK ABOUT ME (TAYLOR'S VERSION) (FROM THE VAULT) by Taylor Swift featuring Chris Stapleton
+23 LEAVE THE DOOR OPEN by Silk Sonic (Bruno Mars & Anderson .Paak)
+24 IF I DIDN'T LOVE YOU by Jason Aldean & Carrie Underwood
+25 RED (TAYLOR'S VERSION) by Taylor Swift
+26 SAVE YOUR TEARS by the Weeknd & Ariana Grande
+27 KNIFE TALK by Drake featuring 21 Savage & Project Pat
+28 MEET ME AT OUR SPOT by THE ANXIETY: WILLOW & Tyler Cole
+29 BETTER DAYS by NEIKED X Mae Muller X Polo G
+30 THINKING 'BOUT YOU by Dustin Lynch featuring Lauren Alaina or MacKenzie Porter
+31 GIRLS WANT GIRLS by Drake featuring Lil Baby
+32 COLD AS YOU by Luke Combs
+33 GHOST by Justin Bieber
+34 LOVE NWANTITI (AH AH AH) by CKay
+35 CHASING AFTER YOU by Ryan Hurd with Maren Morris
+36 ALL I WANT FOR CHRISTMAS IS YOU by Mariah Carey
+37 MY UNIVERSE by Coldplay x BTS
+38 BUY DIRT by Jordan Davis featuring Luke Bryan
+39 THAT'S WHAT I WANT by Lil Nas X
+40 HAPPIER THAN EVER by Billie Eilish
